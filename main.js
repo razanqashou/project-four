@@ -5,7 +5,7 @@ let mountains4 = document.getElementById('mountains4');
 let river5 = document.getElementById('river5');
 let boat6 = document.getElementById('boat');
 let nouvil = document.querySelector('.nouvil');
-console.log(boat6)
+
 
 
 window.onscroll = function () {
